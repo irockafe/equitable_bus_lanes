@@ -1,2 +1,4 @@
 # equitable_bus_lanes
-Calculating the amount of traffic that MBTA buses eliminate and asserting that they deserve that much space on the roads. (Also, hopefully mapping
+Buses deserve as much road space as the traffic they displace. I calculate how much that is for MBTA buses. 
+
+Currently a simple notebook. Hopefully I'll make some leaflet maps that show a hypothetical world where the MBTA did this.
